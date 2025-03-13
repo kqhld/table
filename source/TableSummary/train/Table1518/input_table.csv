@@ -1,0 +1,5 @@
+Name,Creator,Linux?,OS X?,Unix?,Windows?,Note,License
+FFmpeg,Fabrice Bellard,Yes,Yes,Yes,Yes,Audio & video.,GPL or LGPL
+fre:ac,Robert Kausch,Yes,Yes,Yes,Yes,formerly BonkEnc,GPL
+Libav,Libav team,Yes,Yes,Yes,Yes,Audio & video.,GPL or LGPL
+MPlayer,,Yes,Yes,Yes,Yes,Audio & video.,GPL

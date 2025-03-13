@@ -1,0 +1,6 @@
+Client,Primary developers,Software license,User interface,Programming language,Computing platform,Website
+AndroidChat,,GNU GPL,"TUI, GUI",Java,Android,[1]
+AndChat,,Proprietary software,"TUI, GUI",Java,Android,[2]
+Mobile Colloquy,Kiji Roshi,BSD License,GUI,Objective-C,iOS,[3]
+CoolIRC,,GNU GPL,GUI,Java,Java ME,[4] (archive)
+Dump Chat,Mark Marszal,Proprietary software,GUI,Objective-C,iOS,[5]

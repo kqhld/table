@@ -1,0 +1,5 @@
+Horse,Show jumping(Rank),Dressage(Score),Dressage(Rank),Total(Score),Total(Rank),Event,Long distance(Score),Long distance(Rank),Cross country(Score),Cross country(Rank),Steeplechase(Score),Steeplechase(Rank),Show jumping(Score)
+Dibbe-Lippe,Did not start,Retired,Retired,Did not finish,Did not finish,Individual,10.00,1,5.69,23,10.00,20,Did not start
+Gorm,Retired,Retired,Retired,Did not finish,Did not finish,Individual,10.00,1,10.00,1,Did not start,Did not start,Retired
+Streg,Retired,Retired,Retired,Did not finish,Did not finish,Individual,Did not finish,Did not finish,Retired,Retired,Retired,Retired,Retired
+Dibbe-Lippe Gorm Streg,Retired,Retired,Retired,Did not finish,Did not finish,Team,Did not finish,Did not finish,Retired,Retired,Retired,Retired,Retired

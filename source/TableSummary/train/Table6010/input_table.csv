@@ -1,0 +1,6 @@
+Unnamed: 0,Trident,Gecko,WebKit,Presto,Blink
+Object([value]),Yes,Yes,Yes,Yes,Yes
+new Object([value]),4.0,Yes,Yes,Yes,Yes
+prototype,4.0,Yes,Yes,Yes,Yes
+constructor,4.0,Yes,Yes,Yes,Yes
+toString(),4.0,Yes,Yes,Yes,Yes

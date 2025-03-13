@@ -1,0 +1,6 @@
+Name,ATA,Nvidia official driver IA-32,Nvidia official driver IA-64,Nvidia official driver AMD64,ATI official driver x86,ATI official driver x86-64,ATI r200 free software driver,ATI r300 free software driver,Audio,"TV tuner, video editing, or webcam",SATA,SCSI,USB 3.0,USB 2.0
+Linux,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"OSS, ALSA","V4L,V4L2",Yes,Yes,Yes 2.6.31+,Yes
+FreeBSD,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes 8.2+,Yes
+OpenBSD,Yes,No,No,No,No,No,Yes,2d only,Yes,Yes,Yes,Yes,Yes 5.7+,Yes
+NetBSD,Yes,No,No,No,No,No,,,Yes,Yes,Yes,Yes,No 7.0,Yes
+DragonFly BSD,Yes,No,No,No,No,No,,,Yes,,Yes,Yes,Yes,Yes

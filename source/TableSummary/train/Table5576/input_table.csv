@@ -1,0 +1,6 @@
+From,To,Line,Gauge (BG/MG),Track,Traction,Distance (in km)
+Tiruchirappalli Jn,Viluppuram Jn,Chord line,BG,Double,Diesel/Electric,178
+Viluppuram Jn,Vellore Town,Branch line,BG,Single,Diesel/Electric,152
+Viluppuram Jn,Puducherry,Branch line,BG,Single,Diesel/Electric,37
+Tiruchirappalli Jn,Viluppuram Jn,Main line,BG,Single,Diesel,240
+Vridhachalam Jn,Cuddalore Port Jn,Branch line,BG,Single,Diesel,57

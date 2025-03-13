@@ -1,0 +1,6 @@
+Power station,Max. Capacity,Turbines,Coal Type,Mine type,Conveyance,Cooling Water
+Collie,300 MW,1,bituminous,open cut,conveyor,fresh
+Kwinana,640 MW,4,bituminous,open cut,"rail, conveyor, road",seawater
+Muja,854 MW,4,bituminous,open cut,conveyor,fresh
+Worsley Alumina,107 MW,4,bituminous,open cut,rail,fresh
+Bluewaters,416 MW,2,bituminous,open cut,conveyor,fresh

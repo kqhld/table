@@ -1,0 +1,6 @@
+Functions,array (C++11),vector,deque,list,forward_list (C++11)
+Basics,(implicit),(constructor),(constructor),(constructor),(constructor)
+Basics,(implicit),(destructor),(destructor),(destructor),(destructor)
+Basics,(implicit),operator=,operator=,operator=,operator=
+Basics,,assign,assign,assign,assign
+Allocators,,get_allocator,get_allocator,get_allocator,get_allocator

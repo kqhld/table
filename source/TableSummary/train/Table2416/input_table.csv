@@ -1,0 +1,6 @@
+Compiler,Windows,Unix-like,Other OSs,License type,IDE?
+Elastic COBOL,Yes,Yes,"OS X, Raspberry Pi",Free,Eclipse
+IBM COBOL,Yes,AIX,"z/OS, z/VM",Proprietary,Eclipse
+isCOBOL,Yes,Yes,Yes,Proprietary,Yes
+NetCOBOL,Yes,Yes,No,Proprietary,Yes
+GnuCOBOL (formerly OpenCOBOL),Yes,Yes,Yes,GPL,"OCIDE, HackEdit (alpha)"

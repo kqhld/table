@@ -1,0 +1,6 @@
+Optical disc drive,Optical disc or optical media(Pressed CD),Optical disc or optical media(Pressed CAT BD),Optical disc or optical media(BD-R),Optical disc or optical media(BD-RE),Optical disc or optical media(BD-R DL),Optical disc or optical media(BD-RE DL),Optical disc or optical media(CD-R),Optical disc or optical media(CD-RW),Optical disc or optical media(Pressed DVD),Optical disc or optical media(DVD-R),Optical disc or optical media(DVD+R),Optical disc or optical media(DVD-RW),Optical disc or optical media(DVD+RW),Optical disc or optical media(DVD+R DL)
+Audio CD player,Read,,,,,,Read,Read,,,,,,
+CD-ROM drive,Read,,,,,,Read,Read,,,,,,
+CD-R recorder,Read,,,,,,Write,Read,,,,,,
+CD-RW recorder,Read,,,,,,Write,Write,,,,,,
+DVD-ROM drive,Read,,,,,,Read,Read,Read,Read,Read,Read,Read,Read

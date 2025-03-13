@@ -1,0 +1,6 @@
+Implementation,Application-defined,PKIX path validation,CRL,OCSP,DANE (DNSSEC),Trust on First Use (TOFU)
+Botan,Yes,Yes,Yes,Yes,No,No
+cryptlib,Yes,Yes,Unknown,Unknown,No,No
+GnuTLS,Yes,Yes,Yes,Yes,Yes,Yes
+JSSE,Yes,Yes,Yes,Yes,No,No
+LibreSSL,Yes,Yes,Yes,Yes,No,No

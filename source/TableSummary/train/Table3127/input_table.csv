@@ -1,0 +1,5 @@
+Unnamed: 0,Sponsor,Initial commit,Latest stable release,Stable release date,Software license,Format,Open Source,Code generation (client),Code generation (server)
+RAML,MuleSoft,"September, 2013",1.0,"May 16, 2016",Apache 2.0,YAML,Yes,Yes,Yes
+API Blueprint,Apiary,"April, 2013",,,MIT,Markdown,Yes,limited,Yes
+OpenAPI,Open API Initiative (OAI),"July, 2011",2.0,"September 6, 2014",Apache 2.0,JSON or YAML,Yes,Yes,Yes
+SERIN,UNIFOR,2011,2.0,"dec,2014",Creative Commons,RDF,yes,no,yes

@@ -1,0 +1,6 @@
+Software,Atomic commits,International support,Unicode filename support,Supports large repos,File renames,Merge file renames,Symbolic links,Pre-/post-event hooks,Signed revisions,Merge tracking,End of line conversions,Tags
+AccuRev SCM,Yes,Yes,Yes,Yes,Yes,Partial,Yes,Yes,Yes,Yes,Yes,
+GNU Bazaar,Yes,Yes,Yes,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+BitKeeper,Yes,Unknown,Unknown,Yes,Yes,Yes,Yes,Yes,Unknown,Yes,Yes,Yes
+CA Software Change Manager,Yes,Yes,Yes,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+ClearCase,Partial,Yes,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes

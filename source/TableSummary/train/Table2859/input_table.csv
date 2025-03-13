@@ -1,0 +1,6 @@
+Software,Schedule estimate,Cost estimate,Cost Models,Supported Programming Languages,Platforms
+AFCAA REVIC,Yes,Yes,REVIC,any,DOS
+Seer for Software,Yes,Yes,SEER-SEM,any,Windows
+SLIM,Yes,Yes,SLIM,any,"Windows, Any (Web-based)"
+Targetprocess,Yes via custom fields,Yes via custom fields,Unknown,any,"Web-based, on-site available"
+TruePlanning,Yes,Yes,PRICE,any,Windows

@@ -1,0 +1,6 @@
+Power station,Max. Capacity,Turbines,Coal Type,Mine type,Conveyance,Cooling Water
+Bayswater,"2,640 MW",4,bituminous,open cut,"conveyors, rail",fresh
+Eraring,"2,880 MW",4,bituminous,underground,"rail, truck",salt
+Liddell,"2,000MW *",4,bituminous,open cut,"conveyors, rail",fresh
+Mt Piper,"1,400 MW *",2,bituminous,underground,"road, conveyor",fresh
+Vales Point B,"1,320 MW",2,bituminous,underground,conveyors,salt

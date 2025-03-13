@@ -1,0 +1,6 @@
+Unnamed: 0,0_ keypress,9_,A_,B_,C_,D_,E_,F_,1_,2_,3_,4_
+_0,flash off,(A),(Q),VAL,USR,FORMAT,LPRINT,LIST,INK,,0,@
+_1,flash on,(B),(R),LEN,STR$,MOVE,LLIST,LET,PAPER,!,1,A
+_2,bright off,(C),(S),SIN,CHR$,ERASE,STOP,PAUSE,FLASH,"""",2,B
+_3,bright on,(D),(T),COS,NOT,OPEN #,READ,NEXT,BRIGHT,#,3,C
+_4,true video,(E),(U),TAN,BIN,CLOSE #,DATA,POKE,INVERSE,$,4,D

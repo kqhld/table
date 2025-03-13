@@ -1,0 +1,6 @@
+Time period,South of Whitehall St,Between Whitehall St and Canal St,Canal St via Bridge,Between Canal St and 42 St,49 St and 57 St
+Weekdays,no service,no service,express,express,local
+Weekends,no service,no service,local,local,local
+Nights,local,local,no service,local,local
+All times except nights,no service,no service,express,express,express
+Nights,no service,no service,local,local,local

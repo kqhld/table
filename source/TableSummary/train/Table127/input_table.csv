@@ -1,0 +1,4 @@
+IDE,Profiler,Windows,Linux,macOS,editor,Debugger,Stepper,GUI builder
+Allegro Common Lisp,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+LispWorks,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+SLIME (Emacs),Yes,Yes,Yes,Yes,Yes,Yes,Yes,No

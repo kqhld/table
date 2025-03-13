@@ -1,0 +1,6 @@
+Server,Authoritative,Free Software,split horizon,Recursive,Recursion ACL,Slave mode,Caching,DNSSEC,TSIG,Wildcard
+AnswerX,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+BIND,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes (since 4.x)
+PowerDNS,Yes,Yes,Partial,Yes,Yes,Yes,Yes,Yes (since 3.0),Yes (since 3.0),Yes
+djbdns,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partial,No,Partial
+dbndns,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Partial

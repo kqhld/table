@@ -1,0 +1,6 @@
+Name,"FAT16, dosfs; FAT32, vfat",HFS+,MINIXfs,BFS,ISO 9660,UDF,NFS,SMBFS,"RAM disk, tmpfs",ZFS,NTFS,Ext2,Ext3,XFS
+Linux,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+FreeBSD,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+NetBSD,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,No
+OpenBSD,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,,No
+DragonFly BSD,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No

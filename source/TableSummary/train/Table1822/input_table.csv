@@ -1,0 +1,6 @@
+Service,Post via(Web),Read via(SMS),Read via(API),Read via(Feed),Post via(XMPP),Post via(E-Mail),Post via(SMS),Post via(API),Post via(Micropub),Read via(Web),Read via(XMPP),Read via(E-Mail)
+Facebook,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes
+identi.ca,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Twitter,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,?
+Mastodon,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No
+micro.blog,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No

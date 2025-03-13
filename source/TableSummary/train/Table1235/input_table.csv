@@ -1,0 +1,6 @@
+MPEG-1,VP8,VP9,HEVC (H.265),MPEG-2,MPEG-4 Part 2 (ASP),MPEG-4 Part 10 H.264 (AVC),WMV,RealVideo,Theora,Flash,Dirac
+Yes,Yes,?,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Yes,?,?,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Yes,Partial,?,?,Partial,Yes,Partial,Yes,Partial,Partial,Yes,Partial
+Yes,Partial,?,?,Partial,Yes,Yes,Partial,No,Partial,Partial,No

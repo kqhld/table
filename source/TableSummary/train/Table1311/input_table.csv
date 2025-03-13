@@ -1,0 +1,4 @@
+Satellite,Coverage,TP,System,Encrypt,Comp.,Res.,SRate,FEC,SID,V_PID,A_PID,Type,Language,Orbit
+Astra 4A,"Eurasia, Africa",B3,DVB-S,,MPEG-2,SD,27500,3\4,6140,6141,6142,FTA,English,4.8E
+Galaxy 19,North America,19,DVB-S,,,,22000,3\4,1703,4022,4032,FTA,English,97W
+Hot Bird 6,Eurasia,126,DVB-S,,MPEG-2,SD,27500,3\4,1703,320,330,FTA,English,13E

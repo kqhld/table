@@ -1,0 +1,6 @@
+Operating system,KMDF 1.0,KMDF 1.19,KMDF 1.1,KMDF 1.5,KMDF 1.7,KMDF 1.9,KMDF 1.11,KMDF 1.13,KMDF 1.15,KMDF 1.17
+Windows 10 1607,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+Windows 10 1511,yes,-,yes,yes,yes,yes,yes,yes,yes,yes
+Windows 10,yes,-,yes,yes,yes,yes,yes,yes,yes,-
+Windows 8.1,yes,-,yes,yes,yes,yes,yes,yes,-,-
+Windows 8,yes,-,yes,yes,yes,yes,yes,-,-,-

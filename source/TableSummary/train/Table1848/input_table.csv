@@ -1,0 +1,6 @@
+IRC daemon,Windows,poll(),epoll,kqueue,threads,RT signals,/dev/poll,Windows IOCP,Solaris IOCP,DOS,Mac OS,Linux,BSD,Solaris
+Bahamut,No,Yes,Yes,Yes,Unknown,No,Yes,No,No,No,Yes,Yes,Yes,Yes
+bIRCd,Yes,Yes,No,No,Unknown,No,No,No,No,No,Unknown,Yes,Yes,Yes
+Charybdis,No,Yes,Yes,Yes,Unknown,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes
+ConferenceRoom,Yes,Yes,Yes,Yes,Unknown,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+FoxEye ircd,No,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes

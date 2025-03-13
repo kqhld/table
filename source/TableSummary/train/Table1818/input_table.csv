@@ -1,0 +1,6 @@
+Version and its specific edition of Windows to upgrade from,Edition of Windows 7 to upgrade to(Home Basic),Edition of Windows 7 to upgrade to(Home Premium),Edition of Windows 7 to upgrade to(Professional),Edition of Windows 7 to upgrade to(Enterprise),Edition of Windows 7 to upgrade to(Ultimate)
+Vista Home Basic,In-place,In-place,Clean,Clean,In-place
+Vista Home Premium,Clean,In-place,Clean,Clean,In-place
+Vista Business,Clean,Clean,In-place,In-place,In-place
+Vista Enterprise,Clean,Clean,Clean,In-place,Clean
+Vista Ultimate,Clean,Clean,Clean,Clean,In-place

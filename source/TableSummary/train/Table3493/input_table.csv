@@ -1,0 +1,6 @@
+Unnamed: 0,Syntax highlighting,Function list,Symbol database (ctags or equiv.),Brace matching,Auto indentation,Auto completion,Code folding,Text folding,Compiler integration
+Acme,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+AkelPad,Plug-in,Plug-in,Plug-in,Plug-in,Yes,Plug-in,Plug-in,No,Plug-in
+Alphatk,Yes,?,?,Yes,Yes,Yes,Yes,Yes,Yes
+Atom,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Plug-in
+Aquamacs,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes

@@ -1,0 +1,6 @@
+Name,Kerberos,IPv6,Terminal,SFTP/SCP,SSH1,SSH2,Additional protocols(TELNET),Additional protocols(rlogin),Tunneling(Port forwarding),Tunneling(SOCKS),Tunneling(VPN),Session multiplexing
+AbsoluteTelnet,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Dropbear,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No
+lsh,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes
+OpenSSH,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+PACManager,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No

@@ -1,0 +1,6 @@
+SSH1,SSH2,Port forwarding,SFTP,SCP,Supports IPv6,Supports OpenSSH authorized keys,Privilege separation,FIPS 140-2 certified
+No,Yes,Yes,Yes,Yes,Yes,Yes,No,?
+No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?
+No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?
+No,Yes,Yes,Partial,Yes,Yes,Yes,No,?

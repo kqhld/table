@@ -1,0 +1,5 @@
+IDE,HXML builds,Unit test code generation,Unit test running,Unit tests report navigation,Build output display,Error navigation (jump to source),"OpenFL, lime integration",hxcpp debugger,Flash debugger,JS/html5 debugger,Java debugger,Debug/run configurations (short cuts)
+IntelliJ IDEA,Yes,No,No,No,Yes,Yes,Yes,Yes,not Haxe code,use browser,not Haxe code,Yes
+FlashDevelop,Yes,for Flash only,for Flash only,No,Yes,Yes,Yes,Yes,not Haxe code,use browser,No,Yes
+Sublime Text,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,
+Powerflasher FDT,Yes,No,No,No,Yes,Yes,Yes,Yes,not Haxe code,,No,

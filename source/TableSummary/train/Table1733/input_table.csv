@@ -1,0 +1,6 @@
+EP code,ETp code,EEp code,ESp code,Normalized
+{{subst:EP|d}},{{subst:ETp|d}},{{subst:EEp|d}},{{subst:ESp|d}},done
+{{subst:EP|pd}},{{subst:ETp|pd}},{{subst:EEp|pd}},{{subst:ESp|pd}},partly done
+{{subst:EP|n}},{{subst:ETp|n}},{{subst:EEp|n}},{{subst:ESp|n}},not
+{{subst:EP|nfn}},{{subst:ETp|nfn}},{{subst:EEp|nfn}},{{subst:ESp|nfn}},now
+{{subst:EP|c}},{{subst:ETp|c}},{{subst:EEp|c}},{{subst:ESp|c}},consensus

@@ -1,0 +1,6 @@
+Model name,distribution of y,Link function between y and u,distribution of u,Link function between u and v
+Normal conjugate,Normal,Identity,Normal,Identity
+Binomial conjugate,Binomial,Logit,Beta,Logit
+Poisson conjugate,Poisson,Log,Gamma,Log
+Gamma conjugate,Gamma,Reciprocal,Inv-gamma,Reciprocal
+Binomial GLMM,Binomial,Logit,Normal,Identity

@@ -1,0 +1,4 @@
+Name,Namespace,Base type,CIL type,Assembly name,Assembly version
+ArgIterator,System,System.ValueType,structure,mscorlib,2.0.x.x
+RuntimeArgumentHandle,System,System.ValueType,structure,mscorlib,2.0.x.x
+TypedReference,System,System.ValueType,structure,mscorlib,2.0.x.x

@@ -1,0 +1,4 @@
+Project,Caching framework(s),Form validation framework(s),MVC framework,MVC push-pull,i18n & L10n?,ORM,DB migration framework(s),Security framework(s),Template framework(s)
+Camping,No,No,Yes,Push,No,Active record pattern,Yes,No,Yes
+Ruby on Rails,Yes,Yes,"ActiveRecord, Action Pack",Push,Yes,ActiveRecord,Yes,Plug-in,Yes
+Sinatra,through a Rack middleware,No,Yes,Push,No,ORM-independent,Yes,through a Rack middleware,Yes

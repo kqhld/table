@@ -1,0 +1,5 @@
+Linguistics,FAST for SharePoint 2010,SharePoint 2013,Google Search Appliance,IBM Infosphere Data Explorer,Lucidworks Fusion,Perceptive Search,Secure Enterprise Search,intergator,Funnelback Search,Lookeen Server,HP IDOL,Coveo for Advanced Enterprise Search,Endeca Guided Search,Sinequa Enterprise Search
+Language detection,Yes,Yes,Yes,?,Yes,?,?,Yes,Yes,?,Yes,Yes,?,Yes
+Synonyms/stemming,Yes,?,Yes,?,Yes,?,?,Yes,Yes,?,?,Yes,?,Yes
+Named Entity Extraction,Yes,Yes,Yes,?,Yes,Yes,?,Yes,Yes,?,"Yes named ""Eduction""",Yes,?,Yes
+Stop words,?,?,Yes,?,Yes,?,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes

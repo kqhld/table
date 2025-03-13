@@ -1,0 +1,6 @@
+Power station,Turbines,Coal Type,Mine type,Conveyance,Cooling Water
+Bayswater,4,bituminous,open cut,"conveyors, rail",fresh
+Eraring,4,bituminous,underground,"rail, truck",salt
+Liddell,4,bituminous,open cut,"conveyors, rail",fresh
+Mt Piper,2,bituminous,underground,"road, conveyor",fresh
+Munmorah,2,bituminous,underground,conveyors,salt

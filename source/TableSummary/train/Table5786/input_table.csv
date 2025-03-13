@@ -1,0 +1,6 @@
+RFC,Description,Openfire,Prosody,Sun Java System Instant Messaging Server,Tigase,Status,ejabberd,iChat Server,jabberd14,jabberd2,Metronome,Isode M-Link,MongooseIM
+RFC 3920,XMPP Core,Yes,Yes,Unknown,Yes,Obsolete,Yes,Unknown,Yes,Yes,Unknown,,Yes
+RFC 3921,XMPP IM,Yes,Yes,Unknown,Yes,Obsolete,Yes,Unknown,Yes,Yes,Unknown,,Yes
+RFC 3922,XMPP CPIM,Unknown,Unknown,Unknown,Unknown,Final,Yes,Unknown,Unknown,Unknown,Unknown,No,No
+RFC 3923,XMPP E2E,Unknown,Unknown,Unknown,Unknown,Final,Yes,Unknown,Unknown,Unknown,Unknown,No,No
+RFC 4854,XMPP URN,Unknown,Unknown,Unknown,Unknown,Informational,Unknown,Unknown,Unknown,Unknown,Unknown,No,Unknown

@@ -1,0 +1,4 @@
+Interpreter,Author,Windows,Unix-like,Other OSs,License type
+ActiveTcl,ActiveState,Yes,Yes,Yes,Free
+Tclsh,MKS and many others,Yes,Yes,Yes,Proprietary and/or free
+Wish,MKS and many others,Yes,Yes,Yes,Proprietary and/or free

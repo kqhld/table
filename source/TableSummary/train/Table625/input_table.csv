@@ -1,0 +1,5 @@
+IDE,License,Code coverage,Autocomplete,Static code analysis,GUI-based design,Class browser,Latest stable release,Windows,Linux,macOS,Debugger,GUI builder,Toolchain,Profiler
+Eclipse w/ AonixADT,EPL,Unknown,Yes,Unknown,No,Yes,December 2009,Yes,Yes,Yes,Yes,Yes,No,Unknown
+GNAT Programming Studio,GPL,Yes,Yes,Yes,No,Yes,June 2014,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+SlickEdit,Proprietary,No,Yes,No,No,Yes,October 2016,Yes,Yes,Yes,Yes,No,No,No
+Understand,Proprietary,No,Yes,Yes,No,Yes,December 2015,Yes,Yes,Yes,No,No,No,No

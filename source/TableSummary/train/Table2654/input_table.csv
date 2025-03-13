@@ -1,0 +1,6 @@
+Query Parser,FAST for SharePoint 2010,SharePoint 2013,Google Search Appliance,IBM Infosphere Data Explorer,Lucidworks Fusion,Perceptive Search,Secure Enterprise Search,RAVN Connect,intergator,Funnelback Search,Lookeen Server,HP IDOL,Coveo for Advanced Enterprise Search,Endeca Guided Search
+Wildcard search,?,?,Yes,?,Yes,?,Yes,Yes,Yes,Yes,Yes,?,Yes,?
+Fuzzy search,?,?,?,?,Yes,?,Yes,Yes,Yes,Yes,?,?,Yes,?
+Exact phrase search,?,?,?,?,Yes,?,?,Yes,Yes,Yes,Yes,Yes,Yes,?
+Proximity search,?,?,?,?,Yes,?,?,Yes,Yes,Yes,?,?,Yes,?
+Range search,?,?,?,?,Yes,?,?,Yes,Yes,Yes,?,?,?,?

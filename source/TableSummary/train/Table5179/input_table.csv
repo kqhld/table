@@ -1,0 +1,6 @@
+J-Link Model*,Host USB,Host Ethernet,"Target 20-pin 0.10""",Target Other,Target ARM JTAG,Target ARM SWD,Target PIC32 ICSP,Target Max Speed,Target Max Download
+PRO,Yes,Yes,Yes*,No,Yes,Yes,Yes,50 MHz,3 MByte/S
+ULTRA+,Yes,No,Yes*,No,Yes,Yes,Yes,50 MHz,3 MByte/S
+PLUS,Yes,No,Yes*,No,Yes,Yes,Yes,15 MHz,1 MByte/S
+BASE,Yes,No,Yes*,No,Yes,Yes,Yes,15 MHz,1 MByte/S
+EDU,Yes,No,Yes*,No,Yes,Yes,Yes,15 MHz,1 MByte/S

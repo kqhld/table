@@ -1,0 +1,6 @@
+Power station,Location,District,Province,Sector,Region,Capacity per unit (MW),Installed capacity (MW)
+Bukit Asam coal-fired,Tanjung Enim,Muara Enim,South Sumatra,Government,Sumatra,4 x 65,260
+Paiton (PLN) coal-fired,Paiton,Probolinggo,East Java,Government,Java-Bali,2 x 400,800
+Ombilin coal-fired,Ombilin,Sawahlunto,West Sumatra,Government,Sumatra,2 x 100,200
+Suralaya coal-fired,Suralaya,Cilegon,Banten,Government,Java-Bali,4 x 400 3 x 600,"3,400"
+Suralaya Baru coal-fired,Suralaya,Cilegon,Banten,Government,Java-Bali,1 x 625,625

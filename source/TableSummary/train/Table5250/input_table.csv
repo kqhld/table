@@ -1,0 +1,4 @@
+Name,Open source,MSSQL Server support,ODBC support,IBM DB2 support,License,Framework-specific,Qt support,boost support,MySQL support,PostgreSQL support,SQLite support,Oracle support
+LiteSQL,Yes,,,,BSD,no,Yes,,Yes,Yes,Yes,
+ODB,Yes,Yes,,,GPL/other,no,Yes,Yes,Yes,Yes,Yes,Yes
+QxOrm,Yes,Yes,Yes,Yes,GPL / commercial,"Qt, boost",Yes,Yes,Yes,Yes,Yes,Yes

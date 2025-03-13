@@ -1,0 +1,6 @@
+Can:,work at OSI Layer 4 (stateful firewall),Traffic rate-limit / QoS,Tarpit,Log,work at OSI Layer 7 (application inspection),Change TTL? (Transparent to traceroute),Configure REJECT-with answer,DMZ (de-militarized zone) - allows for single/several hosts not to be firewalled.,Filter according to time of day,Redirect TCP/UDP ports (port forwarding),Redirect IP addresses (forwarding),Filter according to User Authorization
+IPFire,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+Sidewinder,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Untangle,Yes,Yes,Yes,Yes,Yes (Some modules),No,No,Yes,Yes (With Policy manager),Yes,Yes,Yes
+WinGate,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes
+Zeroshell,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes

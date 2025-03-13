@@ -1,0 +1,6 @@
+IDE,Syntax coloring,Organize imports,"Live parsing, error checking",Error navigation,Code outline,Code folding,Code completion,Static code analysis,Code hints,Auto imports
+IntelliJ IDEA,internal parser,Yes,internal parser,Yes,Yes,Yes,internal + Haxe compiler,Yes,internal,Yes
+FlashDevelop,Yes,Yes,Yes,Yes,Yes,Yes,IntelliSense + Haxe compiler,Yes,Yes,Yes
+Sublime Text,Haxe compile server,Haxe compile server,Yes,Yes,Yes,Yes,Haxe compile server,,Haxe compile server,Haxe compile server
+Powerflasher FDT,Yes,,Yes,Yes,Yes,Yes,Yes,,,
+Haxe IDE (HIDE),Yes,,Yes,Yes,Yes,Yes,,,,

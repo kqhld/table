@@ -1,0 +1,6 @@
+Operator name,Syntax,Can overload in C++,Included in C,Prototype examples(As member of K),Prototype examples(Outside class definitions)
+Bitwise NOT,~a compl a,Yes,Yes,R K::operator ~();,R operator ~(K a);
+Bitwise AND,a & b a bitand b,Yes,Yes,R K::operator &(S b);,"R operator &(K a, S b);"
+Bitwise OR,a | b a bitor b,Yes,Yes,R K::operator |(S b);,"R operator |(K a, S b);"
+Bitwise XOR,a ^ b a xor b,Yes,Yes,R K::operator ^(S b);,"R operator ^(K a, S b);"
+Bitwise left shift,a << b,Yes,Yes,R K::operator <<(S b);,"R operator <<(K a, S b);"

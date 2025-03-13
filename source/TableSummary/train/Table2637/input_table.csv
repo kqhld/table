@@ -1,0 +1,4 @@
+Video player,MPEG-4 SStP,ARRIRAW,CinemaDNG,Cineon/DPX sequence,OpenEXR sequence,TIFF sequence,PNG sequence,JPEG sequence,JPEG 2000 sequence,AVC-Intra,AVC-Ultra,XAVC,Apple ProRes,VC-2/Dirac Pro
+FFplay,No,No,No,Yes,Some,Some,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+MPlayer,?,No,No,Yes,Some,Some,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+VLC,?,No,No,Yes,?,Some,Yes,Yes,Yes,Yes,No,?,Yes,Yes

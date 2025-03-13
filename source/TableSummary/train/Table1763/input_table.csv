@@ -1,0 +1,6 @@
+Place,Model,Episodes(10),Episodes(2),Episodes(3),Episodes(4),Episodes(5),Episodes(6),Episodes(7),Episodes(8),Episodes(9)
+1,Line,Winner,SAFE,SAFE,SAFE,SAFE,SAFE,SAFE,LOW,WIN
+2,Julie,Runner-up,SAFE,SAFE,WIN,LOW,WIN,SAFE,WIN,LOW
+3,Marie Louise,3rd Place,SAFE,SAFE,LOW,SAFE,SAFE,WIN,SAFE,SAFE
+4,Gudrun Eir,,WIN,SAFE,SAFE,WIN,SAFE,SAFE,SAFE,OUT
+5,Anna,,SAFE,SAFE,SAFE,SAFE,SAFE,SAFE,SAFE,OUT

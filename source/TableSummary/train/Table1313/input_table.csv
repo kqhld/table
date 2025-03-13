@@ -1,0 +1,6 @@
+Location,Dependency,ICAO,IATA,Airport name,Usage,Rwy (ft),Surface
+Alderney,Alderney,EGJA,ACI,Alderney Airport,Public,"2,887",Asphalt/Grass
+Andreas,Isle of Man,,,RAF Andreas,Private,,Closed
+Forest,Guernsey,EGJB,GCI,Guernsey Airport,Public,"4,800",Asphalt
+Malew,Isle of Man,EGNS,IOM,Isle of Man Airport,Public,"5,754",Asphalt/Concrete
+St Peter,Jersey,EGJJ,JER,Jersey Airport,Public,"5,597",Asphalt

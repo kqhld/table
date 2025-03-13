@@ -1,0 +1,6 @@
+Location,County,ICAO,IATA,Usage,Rwy (ft),Surface
+Aldergrove,County Antrim,EGAA,BFS,Public,"9,121",Asphalt
+Belfast,County Down,EGAC,BHD,Public,"6,001",Asphalt
+Eglinton,County Londonderry,EGAE,LDY,Public,"6,453",Asphalt
+Enniskillen,County Fermanagh,EGAB,ENK,Private,"4,350",Asphalt
+Newtownards,County Down,EGAD,,Public,"2,605",Asphalt

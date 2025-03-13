@@ -1,0 +1,6 @@
+Script,Windows inbuilt support(2000),Windows inbuilt support(XP or 2003),Windows inbuilt support(XP SP2),Windows inbuilt support(Vista),Windows inbuilt support(7),Windows inbuilt support(8/8.1),Mac OS X inbuilt support(OS 10.3),Mac OS X inbuilt support(OS 10.4),Mac OS X inbuilt support(OS 10.5/6),Mac OS X inbuilt support(OS 10.7/8),Linux or BSD inbuilt support(KDE with Qt),Linux or BSD inbuilt support(GNOME with Pango),Windows inbuilt support(9x/ME or NT)
+Devanagari,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,no
+Tamil,Yes,Yes,Yes,Yes,Yes,Yes,needs font,Yes,Yes,Yes,Yes,Yes,no
+Gujarati,no,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,no
+Gurmukhi,no,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,no
+Kannada,Yes,Yes,Yes,Yes,Yes,Yes,needs font,needs font,needs font,Yes,Yes,Yes,no

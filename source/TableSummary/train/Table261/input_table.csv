@@ -1,0 +1,6 @@
+Type Of Frame,Name,C-Field Format(2),C-Field Format(1),C-Field Format(0),Command/ Response,Description,Info,C-Field Format(7),C-Field Format(6),C-Field Format(5),C-Field Format(4),C-Field Format(3)
+Information(I),,N(S),N(S),0,C/R,User exchange data,,N(R),N(R),N(R),P/F,N(S)
+Supervisory (S),Receive Ready (RR),0,0,1,C/R,Positive Acknowledgement,Ready to receive I-frame N(R),N(R),N(R),N(R),P/F,0
+,Receive Not Ready (RNR),1,0,1,C/R,Positive Acknowledgement,Not ready to receive,N(R),N(R),N(R),P/F,0
+,Reject (REJ),0,0,1,C/R,Negative Acknowledgement,Retransmit starting with N(R),N(R),N(R),N(R),P/F,1
+,Selective Reject (SREJ),1,0,1,C/R,Negative Acknowledgement,Retransmit only N(R),N(R),N(R),N(R),P/F,1

@@ -1,0 +1,4 @@
+Unnamed: 0,Unbalanced mono in/out,Unbalanced mono insert,Balanced mono in/out,Unbalanced stereo
+Tip,Signal,Send or return signal,Positive/hot,Left channel
+Ring,Ground or no Connection,Return or send signal,Negative/cold,Right channel
+Sleeve,Ground,Ground,Ground,Ground

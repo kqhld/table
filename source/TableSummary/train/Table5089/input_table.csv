@@ -1,0 +1,5 @@
+IDE,Rename variable,Rename class,Rename method,Rename file,Move file,Move package,Extract local variables,Push-down/Pull-up methods
+IntelliJ IDEA,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+FlashDevelop,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+Sublime Text,Yes,Yes,Yes,,,,Yes,
+Powerflasher FDT,Yes,Yes,Yes,NOT in FDT Free,NOT in FDT Free,NOT in FDT Free,NOT in FDT Free,NOT in FDT Free

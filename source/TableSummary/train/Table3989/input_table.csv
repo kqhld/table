@@ -1,0 +1,6 @@
+Name,DCP support,Enforced HDCP or DPCP link encryption,Frame size,3D,Deep color,ICC profiles for display devices,HD-SDI,Frame rate (frame/s),Sampling rate (kHz),MXF Multichannel Audio Labeling (SMPTE 377-4:2012),Input formats,Supplemental DCP support,GUI,OS
+Archimedia Atlas & Iris,Yes,No,"2K, 4K",No,Yes,No,Yes,all frame rates,"48, 96",No,"DCP, MXF, XML",No,Yes,Windows
+Dolby/Doremi CineAsset Player,Yes,No,"2K, 4K",No,Yes,No,Yes,all frame rates,"48, 96",No,"DCP, MXF, XML",Yes,Yes,"Windows, Mac OS X"
+dcpPlayer,Yes,No,"2K, 4K",Yes,Yes,No,No,1-100,"48, 96",No,"DCP, MXF, XML",No,Yes,Windows
+easyDCP Player+,Yes,No,"2K, 4K",Yes,Yes,No,Yes,1-100,"48, 96",Yes,"DCP, MXF, XML",Yes,Yes,"Windows, Mac OS X"
+easyDCP Player,Yes,No,"2K, 4K",No,Yes,No,Yes,1-100,"48, 96",Yes,"DCP, MXF, XML",Yes,Yes,"Windows, Mac OS X"

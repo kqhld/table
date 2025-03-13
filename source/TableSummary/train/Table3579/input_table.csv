@@ -1,0 +1,5 @@
+Facets,FAST for SharePoint 2010,SharePoint 2013,Google Search Appliance,IBM Infosphere Data Explorer,Lucidworks Fusion,Perceptive Search,Secure Enterprise Search,RAVN Connect,intergator,Lookeen Server,HP IDOL,Coveo for Advanced Enterprise Search,Endeca Guided Search,Sinequa Enterprise Search
+Multiple filters,?,?,?,?,Yes,Yes,?,Yes,Yes,Yes,?,Yes,?,Yes
+Facet values and counts,?,?,?,?,?,?,Yes,Yes,Yes,Yes,?,Yes,?,Yes
+Hierarchical- and range facets,?,?,?,?,?,?,Yes,Yes,Yes,?,?,Yes,?,Yes
+"Date, number and string types",Yes,?,?,?,?,?,Yes,Yes,Yes,Yes,?,Yes,?,Yes

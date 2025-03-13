@@ -1,0 +1,6 @@
+Atom Roadmap,Atom Roadmap(Fabri- cation process),Atom Roadmap(Processors/SoCs)(Communication),Atom Roadmap(Processors/SoCs)(CE),Atom Roadmap(Micro- archi- tecture),Atom Roadmap(Release date),Atom Roadmap(Processors/SoCs)(Netbook),Atom Roadmap(Processors/SoCs)(Nettop),Atom Roadmap(Processors/SoCs)(Embedded),Atom Roadmap(Processors/SoCs)(Server)
+Tick,45 nm,,Sodaville,Bonnell,2008,Diamondville,Diamondville,"Tunnel Creek, Stellarton",
+Tock,45 nm,,Groveland,Bonnell,2010,Pineview,Pineview,"Tunnel Creek, Stellarton",
+Tick,32 nm,Unknown,Berryville,Saltwell,2011,Cedar Trail (Cedarview),Cedar Trail (Cedarview),Unknown,Centerton & Briarwood
+Tick,22 nm,Rangeley,Unknown,Silvermont,2013,Bay Trail-M (Valleyview),Bay Trail-D (Valleyview),Bay Trail-I (Valleyview),Avoton
+Tick,14 nm,Unknown,Unknown,Airmont,2014,Braswell,Braswell,Braswell,Denverton Cancelled

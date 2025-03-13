@@ -1,0 +1,6 @@
+Software,Reorderable product backlog,Story description,Acceptance criteria,Story points,Planning poker,Planning poker points averaging,Story claiming,Comments on stories,Change tracking
+Eylean Board,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+JIRA,Yes,Yes,Via custom field,Yes,Via plugin,Via plugin,Yes,Yes,Yes
+Projektron BCS,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+Targetprocess,Yes,Yes,"Yes, via custom fields",Yes,Yes,No,Yes,Yes,Yes
+Trello,Yes,Yes,Yes,Via plugin,Via plugin,Via plugin,Yes,Yes,Yes

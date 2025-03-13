@@ -1,0 +1,6 @@
+Software,remove,move,copy,merge,commit,revert,rebase,clone,pull,push,update,lock,add
+AccuRev SCM,defunct,move,cp [then] add / incl -s / ln,merge,keep / promote,purge / revert,chstream,,,,update,anchor,add
+GNU Bazaar,rm,mv,,merge,commit,revert,rebase,branch / branch --no-tree,pull,push,update,,add
+BitKeeper,rm,mv,cp,pull,commit,undo,collapse,clone,pull -R,push,pull,Unknown,add
+ClearCase,rmname,mv,,merge,checkin,uncheckout / rmver,findmerge,,,,update,lock / unlock,mkelem
+CVS,rm,,,update -j,commit,remove [then] update,,,,,update,Unknown,add

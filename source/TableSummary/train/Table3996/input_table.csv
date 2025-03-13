@@ -1,0 +1,4 @@
+Chipset/ Codename,Gfx model (Radeon),Native video output support(DisplayPort (with DPCP)),Native video output support(HDMI 1.3a (with HDCP)),Native video output support(DVI (with HDCP)),Native video output support(D-Sub),DirectX API supported,Video playback acceleration(AVIVO),Video playback acceleration(AVIVO HD+ UVD+AVP),Video formats decoding support(MPEG-2),Video formats decoding support(H.264),Video formats decoding support(VC-1),Multi-graphics,Other video features
+890GX/RS880D,HD 4290,Yes,Yes,Yes,Yes,10.1,Yes,"Yes, UVD 2",Full,Full,Full,ATI Hybrid CrossFireX,Dual video stream1
+880G/RS880P,HD 4250,Yes,Yes,Yes,Yes,10.1,Yes,"Yes, UVD 2",Full,Full,Full,ATI Hybrid CrossFireX,Dual video stream1
+RS880M series,HD 4270 HD 4250 HD 4225,Yes,Yes,Yes,Yes,10.1,Yes,"Yes, UVD 2",Full,Full,Full,No,Dual video stream1

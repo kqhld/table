@@ -1,0 +1,6 @@
+Country code,Country,Triangle required,First aid required,Fire extinguisher required,Spare bulb required,Tow rope required,Speed limit on motorway (km/h),Speed limit on dual carriageway (km/h),Speed limit in urban area,Permitted alcohol level (%),Toll roads,Seatbelt required,Minimum child age (front seat)
+A,Austria,Yes,Yes,Recommended,No,Yes,130.0,100.0,50,0.05,Yes,All,
+AL,Albania,Recommended,Recommended,Recommended,No,Yes,110.0,,40,0.0,,Yes,
+AND,Andorra,Yes,Recommended,Recommended,No,Yes,,,50,0.05,,Front,10.0
+B,Belgium,Yes,Yes,Yes,No,Yes,120.0,90.0,50,0.05,No,All,12.0
+BG,Bulgaria,Yes,Yes,Yes,Yes,Yes,140.0,,50,0.05,Yes,All,10.0

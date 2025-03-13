@@ -1,0 +1,6 @@
+Unnamed: 0,Flat,SSO,Threaded,User selectable themes,Calendar,Image attachment,Unread message tracking,WYSIWYG Editor,Export,Email interface
+bbPress,Yes,,Yes,No,No,Plugin,Plugin,Yes (using TinyMCE),No,Plugin
+Beehive Forum,Yes,,Yes,Yes,No,Yes,Full,Yes (using TinyMCE),Partial,
+Discourse,Yes,Yes (OAuth),Yes,Yes,No,Yes,Full,No,Yes,"Has a ""maillist"" mode"
+Discuz!,Yes,,Yes,Yes,Yes,Yes,Yes,Yes,,
+eXo Platform,Yes,,Yes,Yes,Yes,Yes,Yes,Yes,Partial,

@@ -1,0 +1,6 @@
+Name,Creator,First release date,Most recent update,Most recent version,Cost,License,Main user interface type,Development status
+ChucK,Ge Wang and Perry Cook,2004,2015-10-21,v1.3.5.2,Free,GPL,Document,Immature
+Csound,Barry Vercoe,1986,2016-05-19,v6.07,Free,LGPL,"Document, graphical",Mature
+Impromptu,Andrew Sorensen,2006,2010-10,v2.5,Free,Proprietary,Document,Stable
+Kyma,Carla Scaletti,1986,2016-11-14,v7.10,Non-free,Proprietary,Graphical,Mature
+Max/MSP,Miller Puckette,1980s (mid),2016-09-25,v7.2.5,Non-free,Proprietary,Graphical,Mature

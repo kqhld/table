@@ -1,0 +1,4 @@
+Model,Stepping,GPU(Frequency),Memory support,TDP,Released,Part number,Release price (USD),CPU(Cores),CPU(Frequency),CPU(Turbo),CPU(L2 Cache),CPU(Multi),CPU(Vcore)
+X3216,Unknown,800 MHz,DDR4-1600,12-15 W,Unknown,Unknown,Unknown,2,1.6 GHz,3.0 GHz,1 MB,Unknown,Unknown
+X3418,Unknown,800 MHz,DDR4-2400,12-35 W,Unknown,Unknown,Unknown,4,1.8 GHz,3.2 GHz,2 MB,Unknown,Unknown
+X3421,Unknown,800 MHz,DDR4-2400,12-35 W,Unknown,Unknown,Unknown,4,2.1 GHz,3.4 GHz,2 MB,Unknown,Unknown

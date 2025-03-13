@@ -1,0 +1,6 @@
+Index,Calculated by,Source data,Observations (approx),Quality Adjustment Method,Local Indices,Frequency
+HM Land Registry,Calnea Analytics,HM Land Registry,100k,RSR,Yes,Monthly
+Knight Frank,Knight Frank,Knight Frank,100k,RSR,Yes,Monthly
+DCLG,DCLG,Lender data,45k,SMA,Regional Only,Monthly
+Halifax,Halifax,Loan approvals,12k,HR,Regional Only,Monthly
+Nationwide,Nationwide,Loan approvals,12k,HR,Regional Only,Monthly

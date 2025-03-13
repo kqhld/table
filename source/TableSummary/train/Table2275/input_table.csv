@@ -1,0 +1,5 @@
+Unnamed: 0,Bits 0–3,Bits 4–7,Bits 8–11,Bits 12–15,Bits 16–23,Bits 24–31
+IPv6 Header (40 bytes),Version,Traffic Class,Traffic Class,Flow Label,Flow Label,Flow Label
+IPv6 Header (40 bytes),Payload Length,Payload Length,Payload Length,Payload Length,Next Header,Hop Limit
+ICMP6 Header (8 bytes),Type of message,Type of message,Code,Code,Checksum,Checksum
+ICMP6 Payload (optional),Payload Data,Payload Data,Payload Data,Payload Data,Payload Data,Payload Data

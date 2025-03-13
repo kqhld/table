@@ -1,0 +1,5 @@
+Name,Cataloguing,Circulation,Acquisitions,Serials,Reporting,Reading lists,Textbooks,Assets,Digital Asset Management
+Invenio,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Insignia,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Koha,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+LIBSYS,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes

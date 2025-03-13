@@ -1,0 +1,6 @@
+Editor,License,Version Control,PHP Debugger,Latest Version,Platform(Linux),Platform(macOS),Platform(Windows),Platform(Other),Autocompletion,GUI builder,Internal Browser
+Aptana Studio,APL/GPLv1,Yes,With XDebug,3.6.1,Yes,Yes,Yes,JVM,Yes,?,Yes
+Atom,MIT,Yes,?,1.13.1,Yes,Yes,Yes,FreeBSD,Yes,No,No
+Bluefish,GPLv3,Yes,?,2.2.9,Yes,Yes,Yes,FreeBSD,Yes,?,Yes
+Brackets,MIT,Yes,?,1.8,Yes,Yes,Yes,No,Yes,No,No
+CodeLite,GPLv2,Yes,?,9.2,Yes,Yes,Yes,FreeBSD,Yes,No,No

@@ -1,0 +1,6 @@
+Rank,Contestant(Edge winner(s)),Episodes(8)(Angela VJ),Episodes(9)(Andre Rachael),Episodes(10)(Andre),Episodes(11)(None),Episodes(1)(Daniel),Episodes(2)(Pickel Rachael),Episodes(3)(Brett Pickel VJ),Episodes(4)(Angela Daniel),Episodes(5)(Daniel),Episodes(6)(Brett Pickel),Episodes(7)(VJ)
+1,VJ,SAFE,WIN,LOW,WINNER,SAFE,SAFE,SAFE,SAFE,WIN,LOW,HIGH
+2,Andre,LOW,LOW,HIGH,OUT,SAFE,HIGH,SAFE,WIN,SAFE,SAFE,WIN
+3,Angela,WIN,WIN,OUT,,SAFE,SAFE,SAFE,SAFE,HIGH,SAFE,LOW
+4,Brett,LOW,OUT,,,WIN,SAFE,WIN,HIGH,SAFE,WIN,SAFE
+5,Rachael,SAFE,OUT,,,SAFE,WIN,HIGH,WIN,HIGH,LOW,LOW

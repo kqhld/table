@@ -1,0 +1,6 @@
+Name,ssh,OpenVPN,TCP/IP,IPv6,IPX,PPP,PPPoE,DHCP,bridge,TUN/TAP
+Linux,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+FreeBSD,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+OpenBSD,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+NetBSD,Yes,Yes,Yes,Yes,,Yes,Yes,Yes,Yes,Yes
+DragonFly BSD,Yes,,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes

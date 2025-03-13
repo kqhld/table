@@ -1,0 +1,6 @@
+Developer,GUI builder,Integrated toolchain,Profiler,Code coverage,Autocomplete,GUI based design,Class browser,Code refactoring,Latest stable release version,Web framework support,Latest stable release date,Written in,Widget toolkit,Python3x support
+Naba Kumar,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,3.22,Unknown,2016-09-18,C,GTK+,Unknown
+Detlev Offenbach,Yes: Qt Creator,Unknown,Yes,Yes,Yes,Yes,Yes,Yes,17.05,Django as optional plug-in,2017-05-06,Python,PyQt,"Yes, since version 5.0.0"
+Team,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,1.3,Unknown,2017-03-05,C,GTK+,Unknown
+Guido van Rossum et al.,Unknown,Unknown,No,No,Yes,Unknown,Yes,Unknown,3.6,Unknown,2016-12-23,Python,Tkinter,Yes
+ActiveState,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,10.2,Unknown,2017-02-21,Unknown,Mozilla platform,Yes

@@ -1,0 +1,6 @@
+Model,Features(Scalable Link Interface (SLI)),Features(Coverage Sample AA),Features(Angle Independent AF),Features(128 bit OpenEXR),Features(PureVideo 2 with VP2 Engine: (BSP and 128 AES))
+GeForce 9400 GT,Yes,Yes,Yes,Yes,Yes
+GeForce 9500 GT,Yes,Yes,Yes,Yes,Yes
+GeForce 9600 GSO,Yes,Yes,Yes,Yes,Yes
+GeForce 9600 GT,Yes,Yes,Yes,Yes,Yes
+GeForce 9800 GT,Yes,Yes,Yes,Yes,Yes

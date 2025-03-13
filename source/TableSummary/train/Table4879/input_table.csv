@@ -1,0 +1,6 @@
+Language,QtSvg,QtTest,QtUiTools,QtWebKit,QtXml,License for proprietary applications,QtCore,QtDesigner,QtGui,Equivalent for uic,QtNetwork,QtOpenGL,QtSql,QtScript
+Ada,No,No,Yes,No,Yes,GMGPL + fee,Yes,Yes,Yes,No,No,Yes,Yes,No
+C++,Yes,Yes,Yes,Yes,Yes,LGPL or Proprietary + fee,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+C# & .NET,Yes,Yes,Yes,Yes,Yes,LGPL,Yes,Yes,Yes,Yes (uics),Yes,Yes,Yes,Yes
+C# & .NET,Yes,Yes,Yes,Yes,Yes,LGPL,Yes,,Yes,WIP,Yes,Yes,Yes,Yes
+D,Yes,No,No,Yes,Yes,Boost Software License+GPL,Yes,Yes,Yes,Yes (duic),Yes,Yes,No,No

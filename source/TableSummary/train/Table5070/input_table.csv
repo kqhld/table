@@ -1,0 +1,6 @@
+Device,Device Class,GPS,Sensors,Wi-Fi,Bluetooth,Codename,Replicant version,2D graphics,3D graphics,Sound,Telephony,Mobile Data,NFC
+Nexus S,Smartphone,No,Yes,Proprietary,Proprietary,crespo,4.2,Yes,No,Yes,Yes,Yes,Proprietary free userspace
+Samsung Galaxy S,Smartphone,No,Yes,Proprietary,Proprietary,galaxysmtd,4.2,Yes,No,Yes,Yes,Yes,
+Samsung Galaxy S2,Smartphone,No,Yes,Proprietary,Proprietary,galaxys2,6.0,Yes (fast),No,Yes,Yes,Yes,No
+Samsung Galaxy Note (original),Smartphone,No,Yes,Proprietary,Proprietary,n7000,4.2,Yes (slow),No,Yes,Yes,Yes,No
+Galaxy Nexus,Smartphone,No,Yes,Proprietary,Proprietary,maguro,4.2,Yes,No,Yes,Yes,Yes,Yes

@@ -1,0 +1,6 @@
+Server,Windows,z/OS,HP-UX,Linux,macOS,BSD,Solaris,eComStation,OpenVMS,AIX,IBM i
+AOLserver,No,Unknown,Unknown,Yes,Yes,Yes,Yes,No,No,Unknown,No
+Apache HTTP Server,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Apache Tomcat,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Boa,Unknown,Unknown,Unknown,Yes,No,Yes,Unknown,No,No,Unknown,No
+Caddy,Yes,Unknown,Unknown,Yes,Yes,Yes,Yes,No,No,Unknown,Unknown

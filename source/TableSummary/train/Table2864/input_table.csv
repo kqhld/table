@@ -1,0 +1,6 @@
+Processor family,Process (nm),DBS/ EIST,XD bit,VT-x,AES,Intel 64,TXT,QPI,HT,ITB,MMX,SSE,SSE2,SSE3
+P6,65,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes
+Core/Penryn,65/45,Yes,Yes,Yes,No,Yes,Some,No,No,No,Yes,Yes,Yes,Yes
+Nehalem/Westmere,45/32,Yes,Yes,Yes,Some,Yes,Some,Some,Some,Some,Yes,Yes,Yes,Yes
+Sandy Bridge/Ivy Bridge,32/22,Yes,Yes,Yes,Some,Yes,Some,Some,Some,Some,Yes,Yes,Yes,Yes
+Haswell/Broadwell,22/14,Yes,Yes,Yes,Some,Yes,Some,Some,Some,Some,Yes,Yes,Yes,Yes

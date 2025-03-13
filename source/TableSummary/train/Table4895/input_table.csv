@@ -1,0 +1,6 @@
+ACL,Unfiling,Version Specific Filing,Join,AllVersions Searchable,Changes,ContentStream Updatability,Get Descendants,Get FolderTree,Multifiling,PWC Searchable,PWC Updatable
+manage,Yes,No,none,No,properties,anytime,Yes,Yes,Yes,Yes,Yes
+manage,No,No,none,No,objectidsonly,anytime,Yes,Yes,Yes,Yes,Yes
+none,No,No,none,No,properties,anytime,Yes,Yes,No,Yes,Yes
+none,Yes,No,join,No,properties,pwconly,Yes,Yes,Yes,No,Yes
+manage,No,No,inneronly,Yes,all,pwconly,Yes,Yes,Yes,Yes,No

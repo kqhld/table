@@ -1,0 +1,6 @@
+Unnamed: 0,0,C,D,E,1,4,5,6,8,9,A
+0,BRK,,ORA abs,ASL abs,"ORA (ind,X)",,ORA zpg,ASL zpg,PHP,ORA #,ASL A
+1,BPL rel,,"ORA abs,X","ASL abs,X","ORA (ind),Y",,"ORA zpg,X","ASL zpg,X",CLC,"ORA abs,Y",
+2,JSR abs,BIT abs,AND abs,ROL abs,"AND (ind,X)",BIT zpg,AND zpg,ROL zpg,PLP,AND #,ROL A
+3,BMI rel,,"AND abs,X","ROL abs,X","AND (ind),Y",,"AND zpg,X","ROL zpg,X",SEC,"AND abs,Y",
+4,RTI,JMP abs,EOR abs,LSR abs,"EOR (ind,X)",,EOR zpg,LSR zpg,PHA,EOR #,LSR A

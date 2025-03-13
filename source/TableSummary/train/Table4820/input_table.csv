@@ -1,0 +1,6 @@
+Name,Shell scripting(In),Audio Units(As unit),Shell scripting(Out),MIDI(In),MIDI(Out),OSC(In),OSC(Out),HID,VST,Audio Units(As host)
+ChucK,,,,Yes,Yes,Yes,Yes,Yes,,
+Csound,Yes,,Yes,Yes,Yes,Yes,Yes,,Yes,
+Impromptu,,No,,Yes,Yes,Yes,Yes,,,Yes
+Kyma,,,,Yes,Yes,Yes,Yes,,,
+Max/MSP,,,,Yes,Yes,Yes,Yes,Yes,Yes,Yes

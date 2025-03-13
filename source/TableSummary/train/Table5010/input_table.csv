@@ -1,0 +1,6 @@
+License,Plugin Support,VCS,IPv6 Support,Multiserver Support,Free,Open Source,Alive (last release),BSD,Windows,Frontend,Backend
+LGPL,?,git,?,?,Yes,Yes,2017/05/30,Yes,No,"PHP, AJAX","PHP, MySQL/MariaDB"
+"AGPL, Proprietary",Yes,git,Yes [4],No,Yes,Yes,2014/03/28,FreeBSD 8.0+,No,Python,Python
+GPL 2,Yes [6],git,Yes [7],No,Yes,Yes,2016/01/18,No,No,PHP,PHP / Perl / Shell script
+GPL,?,bzr,?,?,Yes,Yes,2009/04/04,No,No,PHP,"PHP, SQLite"
+GNU LGPL,?,git,No [10],?,Yes,Yes,2013/04/04,Limited FreeBSD support,No,PHP,MySQL

@@ -1,0 +1,6 @@
+Compiler,Author,Target,Windows,Unix-like,Other OSs,License type,IDE?
+Allegro Common Lisp,"Franz, Inc.",Native code,Yes,Yes,Yes,Proprietary,Yes
+Armed Bear Common Lisp,Peter Graves,JVM,Yes,Yes,Yes,GPL,Yes
+Clasp,Chris Schafmeister,Native code via LLVM,No,Yes,No,Free,No
+CLISP,GNU Project,Bytecode,Yes,Yes,Yes,GPL,No
+Clozure CL,Clozure Associates,Native code,Yes,Yes,No,LGPL,Yes

@@ -1,0 +1,6 @@
+Name,Linux?,OS X?,Unix?,Windows?,License
+Csound,Yes,Yes,No?,Yes,LGPL
+ChucK,Yes,Yes,No?,Yes,GPL
+Nyquist,Yes,Yes,Yes,Yes,
+Pure Data,Yes,Yes,Yes,Yes,BSD-like
+SuperCollider,Yes,Yes,Yes?,Yes,GPL

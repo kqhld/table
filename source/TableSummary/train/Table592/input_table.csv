@@ -1,0 +1,4 @@
+Operator name,Syntax,Can overload in C++,Included in C,Prototype examples(As member of K),Prototype examples(Outside class definitions)
+Logical negation (NOT),!a not a,Yes,Yes,bool K::operator !();,bool operator !(K a);
+Logical AND,a && b a and b,Yes,Yes,bool K::operator &&(S b);,"bool operator &&(K a, S b);"
+Logical OR,a || b a or b,Yes,Yes,bool K::operator ||(S b);,"bool operator ||(K a, S b);"

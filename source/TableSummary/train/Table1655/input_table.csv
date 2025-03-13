@@ -1,0 +1,6 @@
+Name,Namespace,Base type,CIL type,Assembly name,Assembly version
+Decimal,System,System.ValueType,structure,mscorlib,2.0.x.x
+Double,System,System.ValueType,structure,mscorlib,2.0.x.x
+Math,System,System.Object,class,mscorlib,2.0.x.x
+NotFiniteNumberException,System,System.ArithmeticException,class,mscorlib,2.0.x.x
+Single,System,System.ValueType,structure,mscorlib,2.0.x.x

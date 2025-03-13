@@ -1,0 +1,6 @@
+Name,Namespace,Base type,CIL type,Assembly name,Assembly version
+Formatting,System.Xml,System.Enum,enumeration,System.Xml,2.0.x.x
+NameTable,System.Xml,System.Xml.XmlNameTable,class,System.Xml,2.0.x.x
+ReadState,System.Xml,System.Enum,enumeration,System.Xml,2.0.x.x
+WhitespaceHandling,System.Xml,System.Enum,enumeration,System.Xml,2.0.x.x
+WriteState,System.Xml,System.Enum,enumeration,System.Xml,2.0.x.x

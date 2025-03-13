@@ -1,0 +1,6 @@
+Software,Automatic differentiation,Has pretrained models,Recurrent nets,Convolutional nets,RBM/DBNs,Parallel execution (multi node),Software license,Open source,Written in,CUDA support
+Apache SINGA,?,Yes,Yes,Yes,Yes,Yes,Apache 2.0,Yes,C++,Yes
+Caffe,Yes,Yes,Yes,Yes,No,?,BSD license,Yes,C++,Yes
+Deeplearning4j,Computational Graph,Yes,Yes,Yes,Yes,Yes,Apache 2.0,Yes,java,Yes
+Dlib,Yes,Yes,No,Yes,Yes,Yes,Boost Software License,Yes,C++,Yes
+Keras,Yes,Yes,Yes,Yes,Yes,Yes,MIT license,Yes,Python,Yes

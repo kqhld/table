@@ -1,0 +1,6 @@
+Server,Security(basic access authentication),Dynamic content(SSI),Dynamic content(ISAPI),Dynamic content(SSJS),Runs in user space or kernel space,Administration console,IPv6,HTTP/2,Security(digest access authentication),Security(SSL/TLS https),virtual hosting,Dynamic content(CGI),Dynamic content(FCGI),Dynamic content(SCGI)
+AOLserver,Yes,Yes,Unknown,Unknown,user,Unknown,Unknown,Unknown,No,Yes,Yes,Yes,No,Unknown
+Apache HTTP Server,Yes,Yes,Yes,Unknown,user,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Apache Tomcat,Yes,Yes,No,Unknown,user,Yes,Yes,Unknown,Yes,Yes,Yes,Yes,No,Unknown
+Boa,No,No,No,Unknown,user,Unknown,Yes,Unknown,No,Yes,Yes,Yes,No,Unknown
+Caddy,Yes,No,No,No,user,No,Yes,Yes,No,Yes,Yes,Partial,Yes,No

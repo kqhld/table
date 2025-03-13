@@ -1,0 +1,6 @@
+Operator name,Syntax,Meaning,Can overload in C++,Included in C,Prototype examples(As member of K),Prototype examples(Outside class definitions)
+Addition assignment,a += b,a = a + b,Yes,Yes,R& K::operator +=(S b);,"R& operator +=(K& a, S b);"
+Subtraction assignment,a -= b,a = a - b,Yes,Yes,R& K::operator -=(S b);,"R& operator -=(K& a, S b);"
+Multiplication assignment,a *= b,a = a * b,Yes,Yes,R& K::operator *=(S b);,"R& operator *=(K& a, S b);"
+Division assignment,a /= b,a = a / b,Yes,Yes,R& K::operator /=(S b);,"R& operator /=(K& a, S b);"
+Modulo assignment,a %= b,a = a % b,Yes,Yes,R& K::operator %=(S b);,"R& operator %=(K& a, S b);"

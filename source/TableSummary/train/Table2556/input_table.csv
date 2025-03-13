@@ -1,0 +1,6 @@
+Offender,Victim,Crime,Criminal Jurisdiction,Law,Authority
+Indian,Indian,Non-major,Tribal,Tribal,
+Indian,Any,Major,Federal/Tribal concurrent,Federal/Tribal concurrent,Major Crimes Act
+Indian,Non-Indian,Non-major,Federal/Tribal concurrent,State,General Crimes Act
+Non-Indian,Indian,Any,Federal,Federal,General Crimes Act
+Non-Indian,Non-Indian,Any,State,State,

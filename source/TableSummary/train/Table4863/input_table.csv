@@ -1,0 +1,6 @@
+Power station,Operator,Location,District,Province,Sector,Region,Capacity per Unit (MW),Installed Capacity (MW)
+Agam hydro,PT. PLN,Batang Agam,Agam,West Sumatra,Government,Sumatra,3 x 3.5,10
+Maninjau hydro,PT. PLN,Maninjau,Agam,West Sumatra,Government,Sumatra,4 x 17,68
+Singkarak hydro,PT. PLN,Singkarak,Solok,West Sumatra,Government,Sumatra,4 x 43.75,175
+Koto Panjang hydro,PT. PLN,Koto Panjang,Kampar,Riau,Government,Sumatra,3 x 38,114
+Test I hydro,PT. PLN,Tes,Rejang Lebong,Bengkulu,Government,Sumatra,4 x 4,16

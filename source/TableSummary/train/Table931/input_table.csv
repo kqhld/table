@@ -1,0 +1,6 @@
+Chipset/ Codename,Gfx model (Radeon),Other video features,Native video output support(DisplayPort (with DPCP)),Native video output support(HDMI 1.2a (with HDCP)),Native video output support(DVI (with HDCP)),Native video output support(D-Sub),SurroundView (Multi-display),DirectX API supported,IGP frequency,Video playback acceleration(AVIVO),Video playback acceleration(AVIVO HD+ UVD+AVP),Video formats decoding support(MPEG-2),Video formats decoding support(H.264),Video formats decoding support(VC-1)
+785E/RS785E,HD 4200,Dual video stream1,Yes,Yes,Yes,Yes,Yes,10.1,,Yes,"Yes, UVD 2",Yes,Full,Full
+785G/RS880,HD 4200,Dual video stream1,Yes,Yes,Yes,Yes,Yes,10.1,500 MHz,Yes,"Yes, UVD 2",Yes,Full,Full
+790GX/RS780D,HD 3300,Dual video stream1,Yes,Yes,Yes,Yes,Yes,10.0,700 MHz,Yes,"Yes, UVD 2",Partial,Full,Full
+780E/RS780E,HD 3200,Dual video stream1,Yes,Yes,Yes,Yes,Yes,10.0,500 MHz,Yes,"Yes, UVD 2",Partial,Full,Full
+780G/RS780,HD 3200,Dual video stream1,Yes,Yes,Yes,Yes,Yes,10.0,500 MHz,Yes,"Yes, UVD 2",Partial,Full,Full

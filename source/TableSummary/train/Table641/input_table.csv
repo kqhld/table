@@ -1,0 +1,6 @@
+Append/Merge,Import wizard,Import (CSV),Import (DBF),Import (Excel),Import (SAF-T),Import (SIE),Import (XBRL-GL)
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Yes,Yes,Yes,Yes,Yes,?,?,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Yes,Yes,Yes,Yes,Yes,No,Yes,No
+Yes,Yes,Yes,Yes,Yes,?,?,?

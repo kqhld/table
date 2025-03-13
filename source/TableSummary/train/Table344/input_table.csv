@@ -1,0 +1,5 @@
+Project,Caching framework(s),Form validation framework(s),MVC framework,MVC push-pull,i18n & L10n?,Testing framework(s),DB migration framework(s),Security framework(s),Template framework(s)
+ColdBox Platform,Yes,Yes,Yes,Push-pull,Yes,"Yes via TestBox, MockBox",via plugin,Yes,CFML
+Fusebox,via lexicon for ColdSpring,No,optional,Push,CFML,via other testing frameworks,No,via plugins,CFML
+Mach-II,ColdSpring,,Yes,Push,via plugin,via other testing frameworks,No,via plugins,CFML
+Model-Glue,ColdSpring,,Yes,Push,CFML,via other testing frameworks,No,via plugins,CFML
